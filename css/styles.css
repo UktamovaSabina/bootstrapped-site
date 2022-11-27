@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero-section {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-color: #f0f5f9;
+}
+
+.hero__first-btn:hover, .pricing__premium-btn:hover, .address__btn:hover {
+    color: aliceblue;
+}
+
+.hero-heading, .layout__heading, .info__heading, .results-section__heading, .feedback-section__heading, .pricing-section__heading, .pricing-section__card-title, .address-section__heading, .queries__heading {
+    font-weight: 800;
+    color: #383B68;
+}
+
+.you-tube-card {
+    background-color: rgba(231, 215, 194, 0.735);
+}
+
+.robot-card, .info-section__container, .pricing__card, .address__email, .queries__container  {
+    background-color: #f0f5f9;
+}
+
+.feedback-section__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+
+.martly-mcfly {
+    color: #383B68;
+}
+
+.feedback-section__avatar {
+    border-radius: 50%;
+}
+
+.queries__container {
+    padding: 100px 50px;
+}
+
